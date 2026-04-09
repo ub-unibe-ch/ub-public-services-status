@@ -44,7 +44,6 @@ status-website:
   themeUrl: https://ub-unibe-ch.github.io/ub-public-services-status/unibe-theme.css
   logoUrl: https://ub-unibe-ch.github.io/ub-public-services-status/logo.png
   baseUrl: /ub-public-services-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: University Library Public Applications
   introTitle: "**Uptime monitor and status page for the public reachable applications of the University Library of Bern**"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
