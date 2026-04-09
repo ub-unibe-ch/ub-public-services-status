@@ -42,6 +42,7 @@ sites:
 status-website:
   theme: light
   themeUrl: https://ub-unibe-ch.github.io/ub-public-services-status/unibe-theme.css
+  logoUrl: https://ub-unibe-ch.github.io/ub-public-services-status/logo.png
   baseUrl: /ub-public-services-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: University Library Public Applications
