@@ -2,12 +2,38 @@ owner: ub-unibe-ch
 repo: ub-public-services-status
 
 sites:
+  - name: Agenda
+    url: https://agenda.ub.unibe.ch/
+  - name: Berner Ortsgeschichten
+    url: https://berner-ortsgeschichten.ub.unibe.ch/
+  - name: BERNHIST
+    url: https://bernhist.ch/
+  - name: Biblio (File Download)
+    url: https://biblio.unibe.ch/
+  - name: Billing
+    url: https://billing.ub.unibe.ch/
+  - name: Collection Ryhiner
+    url: https://ryhiner.ub.unibe.ch/
+  - name: DigiBern
+    url: https://digibern.ch/
   - name: IIIF Server
     url: https://iiif.ub.unibe.ch/
+  - name: Literapedia Bern
+    url: https://literapedia-bern.ch/
+  - name: MetaEQ
+    url: https://metaeq.ub.unibe.ch/
+  - name: PHBern Teacher
+    url:  https://phbern-teacher.ub.unibe.ch/
   - name: Research Databases
     url: https://databases.ub.unibe.ch/
-  - name: Raumreservation
+  - name: Room Reservation
     url: https://raumreservation.ub.unibe.ch/
+  - name: URN Resolver
+    url: https://urn.ub.unibe.ch/
+    expectedStatusCodes:
+      - 404
+  - name: ZMS Publication List
+    url: https://publicationlist.ub.unibe.ch/
 
 status-website:
   baseUrl: /ub-public-services-status
