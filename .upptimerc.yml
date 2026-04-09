@@ -40,6 +40,7 @@ sites:
     url: https://publicationlist.ub.unibe.ch/
 
 status-website:
+  theme: light
   baseUrl: /ub-public-services-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: University Library Public Applications
