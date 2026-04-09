@@ -49,8 +49,5 @@ status-website:
   introTitle: "**Uptime monitor and status page for the public reachable applications of the University Library of Bern**"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  summaryFile: true
