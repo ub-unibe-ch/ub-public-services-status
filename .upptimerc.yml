@@ -22,8 +22,14 @@ sites:
     url: https://literapedia-bern.ch/
   - name: MetaEQ
     url: https://metaeq.ub.unibe.ch/
+    followRedirects: false
+    expectedStatusCodes:
+      - 302
   - name: PHBern Teacher
     url:  https://phbern-teacher.ub.unibe.ch/
+    followRedirects: false
+    expectedStatusCodes:
+      - 302
   - name: Research Databases
     url: https://databases.ub.unibe.ch/
   - name: Room Reservation
