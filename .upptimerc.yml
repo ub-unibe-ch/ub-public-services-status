@@ -46,7 +46,7 @@ status-website:
   baseUrl: /ub-public-services-status
   name: University Library Public Applications
   introTitle: "**Uptime monitor and status page for the public reachable applications of the University Library of Bern**"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/ub-unibe-ch/ub-public-services-status).
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
