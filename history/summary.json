@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "down",
-    "uptime": "15.37%",
-    "uptimeDay": "15.37%",
-    "uptimeWeek": "15.37%",
-    "uptimeMonth": "15.37%",
-    "uptimeYear": "15.37%",
+    "uptime": "10.85%",
+    "uptimeDay": "10.85%",
+    "uptimeWeek": "10.85%",
+    "uptimeMonth": "10.85%",
+    "uptimeYear": "10.85%",
     "time": 2018,
     "timeDay": 2018,
     "timeWeek": 2018,
     "timeMonth": 2018,
     "timeYear": 2018,
     "dailyMinutesDown": {
-      "2026-04-09": 0
+      "2026-04-09": 1
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
     "status": "down",
-    "uptime": "13.20%",
-    "uptimeDay": "13.20%",
-    "uptimeWeek": "13.20%",
-    "uptimeMonth": "13.20%",
-    "uptimeYear": "13.20%",
+    "uptime": "2.80%",
+    "uptimeDay": "2.80%",
+    "uptimeWeek": "2.80%",
+    "uptimeMonth": "2.80%",
+    "uptimeYear": "2.80%",
     "time": 1498,
     "timeDay": 1498,
     "timeWeek": 1498,
     "timeMonth": 1498,
     "timeYear": 1498,
     "dailyMinutesDown": {
-      "2026-04-09": 0
+      "2026-04-09": 1
     }
   },
   {
