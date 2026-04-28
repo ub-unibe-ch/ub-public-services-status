@@ -1,7 +1,7 @@
 url: https://agenda.ub.unibe.ch/
-status: up
-code: 200
-responseTime: 1274
-lastUpdated: 2026-04-27T23:24:05.934Z
+status: down
+code: 502
+responseTime: 882
+lastUpdated: 2026-04-28T14:26:10.398Z
 startTime: 2026-04-09T12:07:54.828Z
 generator: Upptime <https://github.com/upptime/upptime>
