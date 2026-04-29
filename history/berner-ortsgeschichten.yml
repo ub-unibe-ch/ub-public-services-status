@@ -1,7 +1,7 @@
 url: https://berner-ortsgeschichten.ub.unibe.ch/
-status: up
-code: 200
-responseTime: 2628
-lastUpdated: 2026-04-28T23:23:58.096Z
+status: down
+code: 502
+responseTime: 681
+lastUpdated: 2026-04-29T08:57:24.376Z
 startTime: 2026-04-09T12:07:56.790Z
 generator: Upptime <https://github.com/upptime/upptime>
