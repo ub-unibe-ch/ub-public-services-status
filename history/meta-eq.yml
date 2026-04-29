@@ -1,7 +1,7 @@
 url: https://metaeq.ub.unibe.ch/
-status: up
-code: 400
-responseTime: 1288
-lastUpdated: 2026-04-28T23:24:06.864Z
+status: down
+code: 502
+responseTime: 688
+lastUpdated: 2026-04-29T08:58:03.405Z
 startTime: 2026-04-09T12:08:12.762Z
 generator: Upptime <https://github.com/upptime/upptime>
