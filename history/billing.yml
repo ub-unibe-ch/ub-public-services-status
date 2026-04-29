@@ -1,7 +1,7 @@
 url: https://billing.ub.unibe.ch/
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2026-04-28T23:24:01.259Z
+status: down
+code: 502
+responseTime: 569
+lastUpdated: 2026-04-29T08:57:32.722Z
 startTime: 2026-04-09T12:08:04.124Z
 generator: Upptime <https://github.com/upptime/upptime>
