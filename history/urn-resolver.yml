@@ -1,7 +1,7 @@
 url: https://urn.ub.unibe.ch/
-status: up
-code: 404
-responseTime: 725
-lastUpdated: 2026-04-28T23:24:11.402Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2026-04-29T08:58:14.592Z
 startTime: 2026-04-09T12:08:27.218Z
 generator: Upptime <https://github.com/upptime/upptime>
