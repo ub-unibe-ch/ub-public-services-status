@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.64%",
     "time": 1514,
     "timeDay": 1638,
     "timeWeek": 1775,
@@ -131,10 +131,10 @@
     "url": "https://digibern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/digibern.ch.ico",
     "slug": "digi-bern",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "98.90%",
     "time": 1378,
@@ -157,7 +157,8 @@
       "2026-05-12": 78,
       "2026-05-18": 101,
       "2026-05-23": 24,
-      "2026-05-27": 56
+      "2026-05-27": 56,
+      "2026-05-28": 0
     }
   },
   {
