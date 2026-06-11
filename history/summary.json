@@ -68,21 +68,21 @@
     "url": "https://biblio.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/biblio.unibe.ch.ico",
     "slug": "biblio-file-download",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 1750,
-    "timeDay": 6515,
-    "timeWeek": 3512,
-    "timeMonth": 2197,
-    "timeYear": 1750,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1751,
+    "timeDay": 4938,
+    "timeWeek": 3320,
+    "timeMonth": 2185,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2026-04-17": 38,
       "2026-04-29": 53,
-      "2026-06-11": 0
+      "2026-06-11": 82
     }
   },
   {
