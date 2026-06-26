@@ -4,12 +4,12 @@
     "url": "https://agenda.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "98.46%",
     "time": 1709,
     "timeDay": 1796,
     "timeWeek": 1762,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-04-17": 40,
       "2026-04-29": 1040,
-      "2026-04-28": 574
+      "2026-04-28": 574,
+      "2026-06-26": 63
     }
   },
   {
@@ -26,12 +27,12 @@
     "url": "https://berner-ortsgeschichten.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/berner-ortsgeschichten.ub.unibe.ch.ico",
     "slug": "berner-ortsgeschichten",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1793,
     "timeDay": 820,
     "timeWeek": 1053,
@@ -39,7 +40,8 @@
     "timeYear": 1793,
     "dailyMinutesDown": {
       "2026-04-17": 39,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 59
     }
   },
   {
@@ -47,12 +49,12 @@
     "url": "https://bernhist.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/bernhist.ch.ico",
     "slug": "bernhist",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.87%",
     "time": 856,
     "timeDay": 578,
     "timeWeek": 2833,
@@ -60,7 +62,8 @@
     "timeYear": 856,
     "dailyMinutesDown": {
       "2026-04-17": 39,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 54
     }
   },
   {
@@ -68,12 +71,12 @@
     "url": "https://biblio.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/biblio.unibe.ch.ico",
     "slug": "biblio-file-download",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.80%",
     "time": 1776,
     "timeDay": 1338,
     "timeWeek": 2215,
@@ -82,7 +85,8 @@
     "dailyMinutesDown": {
       "2026-04-17": 38,
       "2026-04-29": 53,
-      "2026-06-11": 82
+      "2026-06-11": 82,
+      "2026-06-26": 49
     }
   },
   {
@@ -90,12 +94,12 @@
     "url": "https://billing.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/billing.ub.unibe.ch.ico",
     "slug": "billing",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.88%",
     "time": 1278,
     "timeDay": 932,
     "timeWeek": 1249,
@@ -103,7 +107,8 @@
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-04-17": 38,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 44
     }
   },
   {
@@ -111,12 +116,12 @@
     "url": "https://ryhiner.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.88%",
     "time": 1254,
     "timeDay": 1044,
     "timeWeek": 1240,
@@ -124,7 +129,8 @@
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2026-04-17": 37,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 39
     }
   },
   {
@@ -171,19 +177,20 @@
     "url": "https://iiif.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/iiif.ub.unibe.ch.ico",
     "slug": "iiif-server",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.91%",
     "time": 1015,
     "timeDay": 758,
     "timeWeek": 916,
     "timeMonth": 903,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2026-05-09": 63
+      "2026-05-09": 63,
+      "2026-06-26": 34
     }
   },
   {
@@ -191,12 +198,12 @@
     "url": "https://literapedia-bern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/literapedia-bern.ch.ico",
     "slug": "literapedia-bern",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.89%",
     "time": 1493,
     "timeDay": 1345,
     "timeWeek": 1557,
@@ -204,7 +211,8 @@
     "timeYear": 1493,
     "dailyMinutesDown": {
       "2026-04-17": 37,
-      "2026-04-29": 52
+      "2026-04-29": 52,
+      "2026-06-26": 29
     }
   },
   {
@@ -212,12 +220,12 @@
     "url": "https://metaeq.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.90%",
     "time": 1994,
     "timeDay": 2016,
     "timeWeek": 2034,
@@ -225,7 +233,8 @@
     "timeYear": 1994,
     "dailyMinutesDown": {
       "2026-04-17": 37,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 25
     }
   },
   {
@@ -233,12 +242,12 @@
     "url": "https://phbern-teacher.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.90%",
     "time": 1644,
     "timeDay": 1755,
     "timeWeek": 1855,
@@ -246,7 +255,8 @@
     "timeYear": 1644,
     "dailyMinutesDown": {
       "2026-04-17": 36,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 20
     }
   },
   {
@@ -254,12 +264,12 @@
     "url": "https://databases.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/databases.ub.unibe.ch.ico",
     "slug": "research-databases",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.91%",
     "time": 1713,
     "timeDay": 1495,
     "timeWeek": 1673,
@@ -267,7 +277,8 @@
     "timeYear": 1713,
     "dailyMinutesDown": {
       "2026-04-17": 36,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 15
     }
   },
   {
@@ -275,12 +286,12 @@
     "url": "https://raumreservation.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/raumreservation.ub.unibe.ch.ico",
     "slug": "room-reservation",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.91%",
     "time": 1554,
     "timeDay": 1573,
     "timeWeek": 2344,
@@ -288,7 +299,8 @@
     "timeYear": 1554,
     "dailyMinutesDown": {
       "2026-04-17": 35,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 10
     }
   },
   {
@@ -296,11 +308,11 @@
     "url": "https://urn.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/urn.ub.unibe.ch.ico",
     "slug": "urn-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 709,
     "timeDay": 477,
@@ -309,7 +321,8 @@
     "timeYear": 709,
     "dailyMinutesDown": {
       "2026-04-17": 35,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 5
     }
   },
   {
@@ -317,9 +330,9 @@
     "url": "https://publicationlist.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/publicationlist.ub.unibe.ch.ico",
     "slug": "zms-publication-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -330,7 +343,8 @@
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2026-04-17": 34,
-      "2026-04-29": 53
+      "2026-04-29": 53,
+      "2026-06-26": 0
     }
   }
 ]
