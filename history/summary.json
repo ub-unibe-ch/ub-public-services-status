@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "45.76%",
-    "uptimeWeek": "92.25%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.87%",
+    "uptimeDay": "38.93%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.87%",
     "time": 1691,
     "timeDay": 866,
     "timeWeek": 1496,
@@ -20,7 +20,7 @@
       "2026-04-29": 1040,
       "2026-04-28": 574,
       "2026-06-26": 71,
-      "2026-07-03": 781
+      "2026-07-03": 879
     }
   },
   {
@@ -118,11 +118,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "90.67%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.70%",
+    "uptimeDay": "83.84%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.70%",
     "time": 1244,
     "timeDay": 734,
     "timeWeek": 1102,
@@ -132,7 +132,7 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 47,
-      "2026-07-03": 134
+      "2026-07-03": 233
     }
   },
   {
@@ -225,13 +225,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "10.45%",
-    "uptimeWeek": "87.21%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.77%",
+    "uptimeDay": "5.03%",
+    "uptimeWeek": "86.23%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.77%",
     "time": 1941,
-    "timeDay": 849,
+    "timeDay": 1036,
     "timeWeek": 1467,
     "timeMonth": 2222,
     "timeYear": 1941,
@@ -239,7 +239,7 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 33,
-      "2026-07-03": 724,
+      "2026-07-03": 823,
       "2026-07-02": 566
     }
   },
@@ -248,21 +248,22 @@
     "url": "https://phbern-teacher.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
-    "time": 1656,
-    "timeDay": 1949,
-    "timeWeek": 1804,
-    "timeMonth": 2056,
-    "timeYear": 1656,
+    "time": 1646,
+    "timeDay": 1340,
+    "timeWeek": 1669,
+    "timeMonth": 2015,
+    "timeYear": 1646,
     "dailyMinutesDown": {
       "2026-04-17": 36,
       "2026-04-29": 53,
-      "2026-06-26": 28
+      "2026-06-26": 28,
+      "2026-07-03": 0
     }
   },
   {
