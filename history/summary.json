@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.55%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "98.55%",
     "time": 1691,
     "timeDay": 866,
     "timeWeek": 1505,
@@ -20,7 +20,7 @@
       "2026-04-29": 1040,
       "2026-04-28": 574,
       "2026-06-26": 71,
-      "2026-07-03": 1
+      "2026-07-03": 37
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "59.62%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.39%",
+    "uptimeDay": "57.12%",
+    "uptimeWeek": "93.55%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.39%",
     "time": 1953,
     "timeDay": 342,
     "timeWeek": 1538,
@@ -238,7 +238,7 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 33,
-      "2026-07-03": 16,
+      "2026-07-03": 52,
       "2026-07-02": 566
     }
   },
