@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "19.88%",
-    "uptimeWeek": "88.55%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.66%",
+    "uptime": "97.63%",
+    "uptimeDay": "17.82%",
+    "uptimeWeek": "88.26%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.63%",
     "time": 1691,
     "timeDay": 866,
     "timeWeek": 1496,
@@ -20,7 +20,7 @@
       "2026-04-29": 1040,
       "2026-04-28": 574,
       "2026-06-26": 71,
-      "2026-07-03": 1154
+      "2026-07-03": 1183
     }
   },
   {
@@ -118,11 +118,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "64.79%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.45%",
+    "uptimeDay": "62.73%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.45%",
     "time": 1244,
     "timeDay": 734,
     "timeWeek": 1102,
@@ -132,7 +132,7 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 47,
-      "2026-07-03": 507
+      "2026-07-03": 537
     }
   },
   {
@@ -140,16 +140,16 @@
     "url": "https://digibern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/digibern.ch.ico",
     "slug": "digi-bern",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.09%",
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.07%",
     "time": 1236,
-    "timeDay": 1026,
-    "timeWeek": 987,
-    "timeMonth": 979,
+    "timeDay": 1136,
+    "timeWeek": 1015,
+    "timeMonth": 986,
     "timeYear": 1236,
     "dailyMinutesDown": {
       "2026-04-11": 29,
@@ -174,7 +174,7 @@
       "2026-06-25": 49,
       "2026-06-26": 34,
       "2026-06-28": 22,
-      "2026-07-03": 1
+      "2026-07-03": 30
     }
   },
   {
@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "down",
-    "uptime": "98.55%",
+    "uptime": "98.52%",
     "uptimeDay": "5.03%",
-    "uptimeWeek": "83.51%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "98.55%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "98.52%",
     "time": 1941,
     "timeDay": 1036,
     "timeWeek": 1467,
@@ -240,7 +240,7 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 33,
-      "2026-07-03": 1097,
+      "2026-07-03": 1126,
       "2026-07-02": 566
     }
   },
@@ -250,11 +250,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "80.93%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "78.87%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.66%",
     "time": 1646,
     "timeDay": 1340,
     "timeWeek": 1669,
@@ -264,7 +264,7 @@
       "2026-04-17": 36,
       "2026-04-29": 53,
       "2026-06-26": 28,
-      "2026-07-03": 275
+      "2026-07-03": 304
     }
   },
   {
