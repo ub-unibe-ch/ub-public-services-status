@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "down",
-    "uptime": "97.45%",
-    "uptimeDay": "1.76%",
-    "uptimeWeek": "85.97%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "97.45%",
+    "uptime": "97.40%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.36%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "97.40%",
     "time": 1691,
-    "timeDay": 429,
+    "timeDay": 0,
     "timeWeek": 1494,
     "timeMonth": 2049,
     "timeYear": 1691,
@@ -20,7 +20,8 @@
       "2026-04-29": 1040,
       "2026-04-28": 574,
       "2026-06-26": 71,
-      "2026-07-03": 1415
+      "2026-07-04": 51,
+      "2026-07-03": 1425
     }
   },
   {
@@ -122,11 +123,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "46.67%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.22%",
+    "uptimeDay": "42.43%",
+    "uptimeWeek": "91.78%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "99.22%",
     "time": 1244,
     "timeDay": 311,
     "timeWeek": 1078,
@@ -136,7 +137,8 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 47,
-      "2026-07-03": 768
+      "2026-07-04": 51,
+      "2026-07-03": 778
     }
   },
   {
@@ -232,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "down",
-    "uptime": "98.34%",
+    "uptime": "98.29%",
     "uptimeDay": "5.03%",
-    "uptimeWeek": "80.92%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "80.32%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "98.29%",
     "time": 1941,
     "timeDay": 1357,
     "timeWeek": 1420,
@@ -246,8 +248,9 @@
       "2026-04-17": 37,
       "2026-04-29": 53,
       "2026-06-26": 33,
-      "2026-07-03": 1358,
-      "2026-07-02": 566
+      "2026-07-03": 1368,
+      "2026-07-02": 566,
+      "2026-07-04": 51
     }
   },
   {
@@ -256,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "62.81%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.42%",
+    "uptimeDay": "58.57%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.42%",
     "time": 1646,
     "timeDay": 730,
     "timeWeek": 1682,
@@ -270,7 +273,8 @@
       "2026-04-17": 36,
       "2026-04-29": 53,
       "2026-06-26": 28,
-      "2026-07-03": 535
+      "2026-07-04": 51,
+      "2026-07-03": 546
     }
   },
   {
@@ -302,11 +306,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/raumreservation.ub.unibe.ch.ico",
     "slug": "room-reservation",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "89.91%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.81%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.81%",
     "time": 1537,
     "timeDay": 939,
     "timeWeek": 1394,
@@ -316,7 +320,7 @@
       "2026-04-17": 35,
       "2026-04-29": 53,
       "2026-06-26": 18,
-      "2026-07-03": 146
+      "2026-07-03": 134
     }
   },
   {
@@ -325,11 +329,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/urn.ub.unibe.ch.ico",
     "slug": "urn-resolver",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
     "time": 706,
     "timeDay": 592,
     "timeWeek": 719,
@@ -337,8 +341,7 @@
     "timeYear": 706,
     "dailyMinutesDown": {
       "2026-04-17": 35,
-      "2026-04-29": 53,
-      "2026-07-03": 7
+      "2026-04-29": 53
     }
   },
   {
@@ -348,8 +351,8 @@
     "slug": "zms-publication-list",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1015,
@@ -359,8 +362,7 @@
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-04-17": 34,
-      "2026-04-29": 53,
-      "2026-07-03": 2
+      "2026-04-29": 53
     }
   }
 ]
