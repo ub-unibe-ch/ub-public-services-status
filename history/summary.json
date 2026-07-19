@@ -4,15 +4,15 @@
     "url": "https://agenda.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
-    "status": "up",
-    "uptime": "95.39%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "88.41%",
-    "uptimeYear": "95.39%",
+    "status": "down",
+    "uptime": "95.35%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "88.27%",
+    "uptimeYear": "95.35%",
     "time": 1674,
-    "timeDay": 1679,
-    "timeWeek": 1771,
+    "timeDay": 1815,
+    "timeWeek": 1738,
     "timeMonth": 1598,
     "timeYear": 1674,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1425,
-      "2026-07-19": 172
+      "2026-07-19": 236
     }
   },
   {
@@ -32,15 +32,15 @@
     "url": "https://berner-ortsgeschichten.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/berner-ortsgeschichten.ub.unibe.ch.ico",
     "slug": "berner-ortsgeschichten",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.71%",
     "time": 1636,
-    "timeDay": 857,
-    "timeWeek": 1080,
+    "timeDay": 853,
+    "timeWeek": 1023,
     "timeMonth": 1084,
     "timeYear": 1636,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-04-29": 53,
       "2026-06-26": 67,
       "2026-07-03": 59,
-      "2026-07-19": 151
+      "2026-07-19": 207
     }
   },
   {
@@ -56,22 +56,23 @@
     "url": "https://bernhist.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/bernhist.ch.ico",
     "slug": "bernhist",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.82%",
     "time": 815,
-    "timeDay": 417,
-    "timeWeek": 641,
+    "timeDay": 0,
+    "timeWeek": 614,
     "timeMonth": 1161,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2026-04-17": 39,
       "2026-04-29": 53,
       "2026-06-26": 62,
-      "2026-07-03": 54
+      "2026-07-03": 54,
+      "2026-07-19": 50
     }
   },
   {
@@ -79,15 +80,15 @@
     "url": "https://biblio.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/biblio.unibe.ch.ico",
     "slug": "biblio-file-download",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.72%",
     "time": 1773,
-    "timeDay": 1524,
-    "timeWeek": 1795,
+    "timeDay": 1426,
+    "timeWeek": 1740,
     "timeMonth": 1864,
     "timeYear": 1773,
     "dailyMinutesDown": {
@@ -96,7 +97,7 @@
       "2026-06-11": 82,
       "2026-06-26": 57,
       "2026-07-03": 50,
-      "2026-07-19": 89
+      "2026-07-19": 133
     }
   },
   {
@@ -104,15 +105,15 @@
     "url": "https://billing.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/billing.ub.unibe.ch.ico",
     "slug": "billing",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.78%",
     "time": 1289,
-    "timeDay": 1419,
-    "timeWeek": 1447,
+    "timeDay": 1605,
+    "timeWeek": 1427,
     "timeMonth": 1310,
     "timeYear": 1289,
     "dailyMinutesDown": {
@@ -120,7 +121,7 @@
       "2026-04-29": 53,
       "2026-06-26": 52,
       "2026-07-03": 45,
-      "2026-07-19": 86
+      "2026-07-19": 128
     }
   },
   {
@@ -128,15 +129,15 @@
     "url": "https://ryhiner.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
-    "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "96.91%",
+    "status": "down",
+    "uptime": "96.88%",
+    "uptimeDay": "90.18%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "96.88%",
     "time": 1261,
-    "timeDay": 1902,
-    "timeWeek": 1633,
+    "timeDay": 2150,
+    "timeWeek": 1670,
     "timeMonth": 1276,
     "timeYear": 1261,
     "dailyMinutesDown": {
@@ -147,7 +148,7 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 778,
-      "2026-07-19": 102
+      "2026-07-19": 141
     }
   },
   {
@@ -162,8 +163,8 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.20%",
     "time": 1217,
-    "timeDay": 744,
-    "timeWeek": 1063,
+    "timeDay": 0,
+    "timeWeek": 1051,
     "timeMonth": 1023,
     "timeYear": 1217,
     "dailyMinutesDown": {
@@ -205,8 +206,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
     "time": 993,
-    "timeDay": 761,
-    "timeWeek": 979,
+    "timeDay": 0,
+    "timeWeek": 960,
     "timeMonth": 911,
     "timeYear": 993,
     "dailyMinutesDown": {
@@ -220,15 +221,15 @@
     "url": "https://literapedia-bern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/literapedia-bern.ch.ico",
     "slug": "literapedia-bern",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.81%",
     "time": 1506,
-    "timeDay": 1345,
-    "timeWeek": 1552,
+    "timeDay": 1329,
+    "timeWeek": 1507,
     "timeMonth": 1553,
     "timeYear": 1506,
     "dailyMinutesDown": {
@@ -236,7 +237,7 @@
       "2026-04-29": 52,
       "2026-06-26": 38,
       "2026-07-03": 31,
-      "2026-07-19": 89
+      "2026-07-19": 120
     }
   },
   {
@@ -244,14 +245,14 @@
     "url": "https://metaeq.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
-    "status": "up",
-    "uptime": "96.21%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "87.57%",
-    "uptimeYear": "96.21%",
+    "status": "down",
+    "uptime": "96.19%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "96.19%",
     "time": 1967,
-    "timeDay": 1735,
+    "timeDay": 1742,
     "timeWeek": 2647,
     "timeMonth": 1911,
     "timeYear": 1967,
@@ -264,7 +265,7 @@
       "2026-07-06": 527,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
-      "2026-07-19": 72
+      "2026-07-19": 99
     }
   },
   {
@@ -273,14 +274,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/phbern-teacher.ub.unibe.ch.ico",
     "slug": "ph-bern-teacher",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "97.32%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "90.62%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.13%",
     "time": 1687,
-    "timeDay": 1466,
-    "timeWeek": 2393,
+    "timeDay": 1386,
+    "timeWeek": 2417,
     "timeMonth": 1839,
     "timeYear": 1687,
     "dailyMinutesDown": {
@@ -300,14 +301,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/databases.ub.unibe.ch.ico",
     "slug": "research-databases",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.85%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.85%",
     "time": 1744,
-    "timeDay": 1914,
-    "timeWeek": 2158,
+    "timeDay": 2054,
+    "timeWeek": 2082,
     "timeMonth": 1814,
     "timeYear": 1744,
     "dailyMinutesDown": {
@@ -315,7 +316,7 @@
       "2026-04-29": 53,
       "2026-06-26": 23,
       "2026-07-03": 16,
-      "2026-07-19": 16
+      "2026-07-19": 95
     }
   },
   {
@@ -323,15 +324,15 @@
     "url": "https://raumreservation.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/raumreservation.ub.unibe.ch.ico",
     "slug": "room-reservation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.83%",
     "time": 1539,
-    "timeDay": 1402,
-    "timeWeek": 1567,
+    "timeDay": 1371,
+    "timeWeek": 1543,
     "timeMonth": 1662,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -348,20 +349,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/urn.ub.unibe.ch.ico",
     "slug": "urn-resolver",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 710,
-    "timeDay": 743,
-    "timeWeek": 803,
+    "timeDay": 937,
+    "timeWeek": 776,
     "timeMonth": 697,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2026-04-17": 35,
-      "2026-04-29": 53,
-      "2026-07-19": 8
+      "2026-04-29": 53
     }
   },
   {
@@ -369,21 +369,21 @@
     "url": "https://publicationlist.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/publicationlist.ub.unibe.ch.ico",
     "slug": "zms-publication-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1044,
-    "timeDay": 1300,
-    "timeWeek": 1292,
+    "timeDay": 1434,
+    "timeWeek": 1295,
     "timeMonth": 1158,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-04-17": 34,
       "2026-04-29": 53,
-      "2026-07-19": 2
+      "2026-07-19": 0
     }
   }
 ]
