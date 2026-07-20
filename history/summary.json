@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
     "status": "up",
-    "uptime": "95.31%",
-    "uptimeDay": "78.95%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "88.11%",
-    "uptimeYear": "95.31%",
+    "uptime": "95.28%",
+    "uptimeDay": "76.20%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "95.28%",
     "time": 1670,
     "timeDay": 1658,
     "timeWeek": 1675,
@@ -25,7 +25,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 1425,
       "2026-07-19": 246,
-      "2026-07-20": 57
+      "2026-07-20": 97
     }
   },
   {
@@ -34,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/berner-ortsgeschichten.ub.unibe.ch.ico",
     "slug": "berner-ortsgeschichten",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "81.29%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.64%",
+    "uptimeDay": "78.54%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.64%",
     "time": 1627,
     "timeDay": 945,
     "timeWeek": 1035,
@@ -50,7 +50,7 @@
       "2026-06-26": 67,
       "2026-07-03": 59,
       "2026-07-19": 211,
-      "2026-07-20": 57
+      "2026-07-20": 97
     }
   },
   {
@@ -58,23 +58,24 @@
     "url": "https://bernhist.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/bernhist.ch.ico",
     "slug": "bernhist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "96.45%",
+    "uptimeDay": "96.41%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.82%",
-    "time": 811,
-    "timeDay": 459,
-    "timeWeek": 588,
-    "timeMonth": 1153,
-    "timeYear": 811,
+    "time": 809,
+    "timeDay": 513,
+    "timeWeek": 585,
+    "timeMonth": 1134,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2026-04-17": 39,
       "2026-04-29": 53,
       "2026-06-26": 62,
       "2026-07-03": 54,
-      "2026-07-19": 51
+      "2026-07-19": 51,
+      "2026-07-20": 1
     }
   },
   {
@@ -83,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/biblio.unibe.ch.ico",
     "slug": "biblio-file-download",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.66%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.66%",
     "time": 1771,
     "timeDay": 1542,
     "timeWeek": 1721,
@@ -100,7 +101,7 @@
       "2026-06-26": 57,
       "2026-07-03": 50,
       "2026-07-19": 133,
-      "2026-07-20": 50
+      "2026-07-20": 90
     }
   },
   {
@@ -109,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.ub.unibe.ch.ico",
     "slug": "billing",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "87.89%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.73%",
+    "uptimeDay": "85.15%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.73%",
     "time": 1300,
     "timeDay": 1785,
     "timeWeek": 1547,
@@ -125,7 +126,7 @@
       "2026-06-26": 52,
       "2026-07-03": 45,
       "2026-07-19": 129,
-      "2026-07-20": 45
+      "2026-07-20": 84
     }
   },
   {
@@ -134,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
     "status": "up",
-    "uptime": "96.85%",
-    "uptimeDay": "87.17%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "89.71%",
-    "uptimeYear": "96.85%",
+    "uptime": "96.83%",
+    "uptimeDay": "84.42%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "96.83%",
     "time": 1260,
     "timeDay": 1761,
     "timeWeek": 1572,
@@ -153,7 +154,7 @@
       "2026-07-04": 1440,
       "2026-07-03": 778,
       "2026-07-19": 142,
-      "2026-07-20": 42
+      "2026-07-20": 82
     }
   },
   {
@@ -227,11 +228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/literapedia-bern.ch.ico",
     "slug": "literapedia-bern",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.75%",
+    "uptimeDay": "85.98%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.75%",
     "time": 1507,
     "timeDay": 1430,
     "timeWeek": 1522,
@@ -243,7 +244,7 @@
       "2026-06-26": 38,
       "2026-07-03": 31,
       "2026-07-19": 121,
-      "2026-07-20": 41
+      "2026-07-20": 81
     }
   },
   {
@@ -307,11 +308,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/databases.ub.unibe.ch.ico",
     "slug": "research-databases",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.79%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.79%",
     "time": 1744,
     "timeDay": 1921,
     "timeWeek": 2017,
@@ -323,7 +324,7 @@
       "2026-06-26": 23,
       "2026-07-03": 16,
       "2026-07-19": 96,
-      "2026-07-20": 38
+      "2026-07-20": 77
     }
   },
   {
@@ -332,11 +333,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/raumreservation.ub.unibe.ch.ico",
     "slug": "room-reservation",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.79%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.79%",
     "time": 1545,
     "timeDay": 1574,
     "timeWeek": 1610,
@@ -347,7 +348,7 @@
       "2026-04-29": 53,
       "2026-06-26": 18,
       "2026-07-03": 134,
-      "2026-07-20": 31
+      "2026-07-20": 70
     }
   },
   {
