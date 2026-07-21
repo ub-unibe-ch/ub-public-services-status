@@ -1,7 +1,7 @@
 url: https://raumreservation.ub.unibe.ch/
-status: up
-code: 200
-responseTime: 3098
-lastUpdated: 2026-07-21T02:18:27.815Z
+status: down
+code: 502
+responseTime: 385
+lastUpdated: 2026-07-21T03:40:26.184Z
 startTime: 2026-04-09T12:08:25.412Z
 generator: Upptime <https://github.com/upptime/upptime>
