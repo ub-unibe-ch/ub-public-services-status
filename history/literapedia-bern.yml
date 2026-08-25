@@ -1,7 +1,7 @@
 url: https://literapedia-bern.ch/
-status: up
-code: 200
-responseTime: 1424
-lastUpdated: 2026-08-24T23:08:26.070Z
+status: down
+code: 500
+responseTime: 772
+lastUpdated: 2026-08-25T08:20:29.556Z
 startTime: 2026-04-09T12:08:10.684Z
 generator: Upptime <https://github.com/upptime/upptime>
