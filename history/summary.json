@@ -236,17 +236,17 @@
     "url": "https://literapedia-bern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/literapedia-bern.ch.ico",
     "slug": "literapedia-bern",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 1523,
-    "timeDay": 1098,
-    "timeWeek": 1650,
-    "timeMonth": 1649,
-    "timeYear": 1523,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.60%",
+    "time": 1524,
+    "timeDay": 1274,
+    "timeWeek": 1648,
+    "timeMonth": 1648,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2026-04-17": 37,
       "2026-04-29": 52,
@@ -255,7 +255,7 @@
       "2026-07-19": 121,
       "2026-07-20": 298,
       "2026-07-21": 163,
-      "2026-08-25": 0
+      "2026-08-25": 57
     }
   },
   {
