@@ -4,17 +4,17 @@
     "url": "https://agenda.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/agenda.ub.unibe.ch.ico",
     "slug": "agenda",
-    "status": "down",
-    "uptime": "96.82%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "96.82%",
-    "time": 1662,
-    "timeDay": 1007,
-    "timeWeek": 1586,
-    "timeMonth": 1687,
-    "timeYear": 1662,
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "96.81%",
+    "time": 1665,
+    "timeDay": 1382,
+    "timeWeek": 1646,
+    "timeMonth": 1700,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2026-04-17": 40,
       "2026-04-29": 1040,
@@ -28,7 +28,7 @@
       "2026-07-20": 314,
       "2026-07-21": 180,
       "2026-08-31": 41,
-      "2026-09-16": 0
+      "2026-09-16": 7
     }
   },
   {
