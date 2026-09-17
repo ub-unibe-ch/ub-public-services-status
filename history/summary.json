@@ -176,9 +176,9 @@
     "url": "https://digibern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/digibern.ch.ico",
     "slug": "digi-bern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.48%",
@@ -213,7 +213,8 @@
       "2026-07-03": 30,
       "2026-07-04": 26,
       "2026-08-08": 17,
-      "2026-08-26": 19
+      "2026-08-26": 19,
+      "2026-09-17": 0
     }
   },
   {
@@ -273,11 +274,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/metaeq.ub.unibe.ch.ico",
     "slug": "meta-eq",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.48%",
     "time": 2006,
     "timeDay": 2108,
     "timeWeek": 1951,
