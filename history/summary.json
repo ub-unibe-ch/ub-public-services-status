@@ -146,17 +146,17 @@
     "url": "https://ryhiner.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/ryhiner.ub.unibe.ch.ico",
     "slug": "collection-ryhiner",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.99%",
-    "time": 1265,
-    "timeDay": 1057,
-    "timeWeek": 1278,
-    "timeMonth": 1281,
-    "timeYear": 1265,
+    "time": 1264,
+    "timeDay": 1036,
+    "timeWeek": 1246,
+    "timeMonth": 1273,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2026-04-17": 37,
       "2026-04-29": 53,
@@ -169,7 +169,7 @@
       "2026-07-20": 300,
       "2026-07-21": 163,
       "2026-08-31": 17,
-      "2026-09-30": 0
+      "2026-09-30": 15
     }
   },
   {
