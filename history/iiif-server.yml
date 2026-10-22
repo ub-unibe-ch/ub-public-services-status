@@ -1,7 +1,7 @@
 url: https://iiif.ub.unibe.ch/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-22T09:04:19.879Z
+status: up
+code: 200
+responseTime: 54952
+lastUpdated: 2026-10-22T09:10:42.733Z
 startTime: 2026-04-08T16:43:05.671Z
 generator: Upptime <https://github.com/upptime/upptime>
