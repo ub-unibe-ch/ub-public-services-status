@@ -191,17 +191,17 @@
     "url": "https://digibern.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/digibern.ch.ico",
     "slug": "digi-bern",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
-    "time": 1355,
-    "timeDay": 15820,
-    "timeWeek": 4690,
-    "timeMonth": 1811,
-    "timeYear": 1355,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.60%",
+    "time": 1354,
+    "timeDay": 10898,
+    "timeWeek": 4286,
+    "timeMonth": 1791,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2026-04-11": 29,
       "2026-04-15": 27,
@@ -230,7 +230,7 @@
       "2026-08-08": 17,
       "2026-08-26": 19,
       "2026-09-18": 17,
-      "2026-11-11": 1
+      "2026-11-11": 27
     }
   },
   {
