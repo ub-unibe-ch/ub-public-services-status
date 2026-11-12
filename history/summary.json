@@ -238,17 +238,17 @@
     "url": "https://iiif.ub.unibe.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/iiif.ub.unibe.ch.ico",
     "slug": "iiif-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.70%",
-    "time": 2625,
-    "timeDay": 28390,
-    "timeWeek": 20205,
-    "timeMonth": 8331,
-    "timeYear": 2625,
+    "time": 2746,
+    "timeDay": 29243,
+    "timeWeek": 21171,
+    "timeMonth": 8965,
+    "timeYear": 2746,
     "dailyMinutesDown": {
       "2026-05-09": 63,
       "2026-06-26": 42,
@@ -256,7 +256,7 @@
       "2026-09-04": 150,
       "2026-09-21": 618,
       "2026-11-07": 18,
-      "2026-11-12": 1
+      "2026-11-12": 4
     }
   },
   {
